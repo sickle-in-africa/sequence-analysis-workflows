@@ -6,3 +6,4 @@ This is a meta-repository for organising the SickleInAfrica sequence analysis wo
 
 ## Workflows
 * [**snv indel**](https://github.com/sickle-in-africa/saw.snv-indel.git) A variant calling pipeline for human genetics focusing on germline SNVs and small indels.
+* [**structural variants**](https://github.com/sickle-in-africa/saw.structural-variants.git)
